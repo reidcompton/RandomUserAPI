@@ -1,0 +1,16 @@
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\bin\Release\netcoreapp2.1\Files\people.json
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\bin\Release\netcoreapp2.1\NewClassrooms.deps.json
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\bin\Release\netcoreapp2.1\NewClassrooms.runtimeconfig.json
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\bin\Release\netcoreapp2.1\NewClassrooms.runtimeconfig.dev.json
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\bin\Release\netcoreapp2.1\NewClassrooms.dll
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\bin\Release\netcoreapp2.1\NewClassrooms.pdb
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\obj\Release\netcoreapp2.1\NewClassrooms.csproj.CoreCompileInputs.cache
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\obj\Release\netcoreapp2.1\NewClassrooms.RazorAssemblyInfo.cache
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\obj\Release\netcoreapp2.1\NewClassrooms.RazorAssemblyInfo.cs
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\obj\Release\netcoreapp2.1\NewClassrooms.AssemblyInfoInputs.cache
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\obj\Release\netcoreapp2.1\NewClassrooms.AssemblyInfo.cs
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\obj\Release\netcoreapp2.1\NewClassrooms.RazorTargetAssemblyInfo.cache
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\obj\Release\netcoreapp2.1\NewClassrooms.dll
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\obj\Release\netcoreapp2.1\NewClassrooms.pdb
+C:\Users\reid\source\repos\NewClassrooms\NewClassrooms\obj\Release\netcoreapp2.1\NewClassrooms.csprojAssemblyReference.cache
